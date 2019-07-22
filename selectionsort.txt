@@ -1,0 +1,3 @@
+selectionsort.py store the implementation of selectionsort algorithm
+input format:2 3 4 67 45 78 342 1
+outpu format:[1,2,3,4,45,67,78,342]

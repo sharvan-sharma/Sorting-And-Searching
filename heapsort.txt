@@ -1,0 +1,7 @@
+heapsort.py store the implementation of heapsort algorithm
+it contain 3 sub algorithm
+1.heapify
+2.naive heap creating algo
+3.heapsort
+input format:2 3 4 67 45 78 342 1
+outpu format:[1,2,3,4,45,67,78,342]
